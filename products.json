@@ -1,0 +1,134 @@
+[
+    {
+        "id": 0,
+        "desc": "Apple",
+        "price": 10,
+        "qty": 200
+    },
+    {
+        "id": 1,
+        "desc": "Apricots",
+        "price": 37,
+        "qty": 19961
+    },
+    {
+        "id": 2,
+        "desc": "Avocado",
+        "price": 246,
+        "qty": 18
+    },
+    {
+        "id": 3,
+        "desc": "Banana",
+        "price": 468.2,
+        "qty": 35
+    },
+    {
+        "id": 4,
+        "desc": "Soursop",
+        "price": 763.5,
+        "qty": 24
+    },
+    {
+        "id": 5,
+        "desc": "Tamarind",
+        "price": 42.9,
+        "qty": 32
+    },
+    {
+        "id": 6,
+        "desc": "Blueberries",
+        "price": 0,
+        "qty": 45
+    },
+    {
+        "id": 7,
+        "desc": "Breadfruit",
+        "price": 65,
+        "qty": 64
+    },
+    {
+        "id": 8,
+        "desc": "Cantaloupe",
+        "price": 76,
+        "qty": 76
+    },
+    {
+        "id": 9,
+        "desc": "Carambola",
+        "price": 35,
+        "qty": 24
+    },
+    {
+        "id": 10,
+        "desc": "Cherimoya",
+        "price": 27,
+        "qty": 74
+    },
+    {
+        "id": 11,
+        "desc": "Cherries",
+        "price": 51,
+        "qty": 83
+    },
+    {
+        "id": 12,
+        "desc": "Clementine",
+        "price": 15,
+        "qty": 233
+    },
+    {
+        "id": 13,
+        "desc": "Coconut Meat",
+        "price": 63,
+        "qty": 134
+    },
+    {
+        "id": 14,
+        "desc": "Cranberries",
+        "price": 34,
+        "qty": 55
+    },
+    {
+        "id": 15,
+        "desc": "Watermelon",
+        "price": 56,
+        "qty": 17
+    },
+    {
+        "id": 16,
+        "desc": "Date Fruit",
+        "price": 45,
+        "qty": 84
+    },
+    {
+        "id": 17,
+        "desc": "Durian",
+        "price": 67,
+        "qty": 223
+    },
+    {
+        "id": 18,
+        "desc": "Tangerine",
+        "price": 45,
+        "qty": 62
+    },
+    {
+        "id": 19,
+        "desc": "Feijoa",
+        "price": 763,
+        "qty": 10
+    },
+    {
+        "id": 20,
+        "desc": "test",
+        "price": 5,
+        "qty": 50
+    },
+    {
+        "id": 21,
+        "desc": "test",
+        "price": 5,
+        "qty": 50
+    }
+]
